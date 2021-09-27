@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rubocop-hashserializer', require: false
+gem 'rubocop-serializer', require: false
 ```
 
 And then execute:
@@ -18,11 +18,11 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install rubocop-hashserializer
+    $ gem install rubocop-serializer
 
 ## Usage
 
-TODO: Write usage instructions here
+Model attributes serialize to hash checker.
 
 ## Development
 
