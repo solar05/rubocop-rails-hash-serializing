@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = 'rubocop_hash_serializer'
+  spec.name          = 'rubocop-serializer'
   spec.version       = '0.0.1'
   spec.authors       = ['Artem Solomatin']
   spec.email         = ['artem00298@gmail.com']

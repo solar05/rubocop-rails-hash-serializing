@@ -2,7 +2,7 @@
 
 require 'rubocop'
 require 'rubocop/rspec/support'
-require 'rubocop_rails_hash_serializer'
+require 'rubocop-serializer'
 
 RSpec.configure do |config|
   # rspec-expectations config goes here. You can use an alternate
