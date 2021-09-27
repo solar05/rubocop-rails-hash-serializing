@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = 'rubocop-serializer'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ['Artem Solomatin']
   spec.email         = ['artem00298@gmail.com']
 
@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   # rubocop:enable Layout/LineLength
   spec.homepage      = 'https://github.com/solar05/rubocop-rails-hash-serializing.git'
   spec.license       = 'MIT'
-  spec.required_ruby_version = Gem::Requirement.new('>= 2.7.0')
+  spec.required_ruby_version = Gem::Requirement.new('>= 2.5.0')
 
   spec.metadata['homepage_uri'] = spec.homepage
   spec.metadata['source_code_uri'] = 'https://github.com/solar05/rubocop-rails-hash-serializing.git'
